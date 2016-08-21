@@ -1,4 +1,9 @@
 <?php
+//Auckland Rubbish Date Collection
+//
+//Author: Ben McDowall
+//21 August 2016
+//
 //This script will give you the EPOCH format of the date in which the next rubbish and recycling will be collected by Auckland Council.
 //Get you valuation from the Council website and enter it in the variable named "valuation_num"
 //
