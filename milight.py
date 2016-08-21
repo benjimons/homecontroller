@@ -5,8 +5,12 @@ import sys
 # addressing information of target
 IPADDR = '192.168.0.101'
 PORTNUM = 8899
+
+#Get action and print it back
 action = str(sys.argv[1])
 print(action)
+
+#Create packet data based on selection action
 if action == "on":
 	PACKETDATA = '420055'.decode('hex')
 if action == "off":
