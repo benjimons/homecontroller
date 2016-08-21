@@ -3,6 +3,7 @@
 # Milight Control Script
 #
 # Author Ben McDowall
+# 21 August 2016
 #
 # Usage: ./milight.py action
 
