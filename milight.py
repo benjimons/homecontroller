@@ -1,4 +1,11 @@
 #!/usr/bin/python
+#
+# Milight Control Script
+#
+# Author Ben McDowall
+#
+# Usage: ./milight.py action
+
 import socket
 import sys
 
